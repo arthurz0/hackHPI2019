@@ -1,5 +1,5 @@
 # Unbounded
-A visualization platform for mapping conflicts and tracking the movements of terrorist groups.
+This visualization tool for mapping conflicts and tracking the movements of terrorist groups has been created during the 22 hour Hack HPI 2019.
 
 Try it out at https://arthurz0.github.io/hackHPI2019/
 
